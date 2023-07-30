@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nayrd7
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning to program in Python
+- 💞️ I’m looking to collaborate with my friend named Vlad
+- 📫 How to reach me: Discord - https://discord.gg/A4jTGxJEYY & Email - mr.nayrd@mail.ru
