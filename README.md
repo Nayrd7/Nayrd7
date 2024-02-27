@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Nayrd7
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning to program in Python
-- 💞️ I’m looking to collaborate with my friend named Misha
-- 📫 How to reach me: Discord - https://discord.gg/A4jTGxJEYY
+# Hi, my name is Nayrd. 
+- I really like the Python programming language. At the moment, my active projects are: Discord Bot and personal website. Among all the programmers, I am at the Junior stage and I am still improving my skills. 
+#### If you need to contact me, then you can do it through discord: nayrd 
+#### Or through my discord server: https://discord.gg/A4jTGxJEYY
